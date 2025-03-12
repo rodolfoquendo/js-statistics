@@ -2,4 +2,4 @@
 
 const mix = require('laravel-mix');
 mix.setPublicPath('dist')
-    .js('lib/Statistics.js', 'dist/rodolfoquendo-statistics.js');
+    .js('index.js', 'dist/rodolfoquendo-statistics.js');
