@@ -1,4 +1,4 @@
-import Statistics from '../lib/Statistics.js';
+import Statistics from '../index.js';
 
 global.fetch = (url, options) => new Promise((resolve, reject) => {
   let xhr = new XMLHttpRequest();

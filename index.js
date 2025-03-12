@@ -2,7 +2,7 @@ import {
     empty,
     isset,
     is_null,
-} from "../node_modules/@rodolfoquendo/js-core/lib/Helpers.js";
+} from "@rodolfoquendo/js-core/lib/Helpers.js";
 
 export default class Statistics{
     #needles = []
