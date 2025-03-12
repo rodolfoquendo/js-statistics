@@ -1,0 +1,4 @@
+Makefile
+.github
+node_modules
+coverage
